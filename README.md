@@ -16,10 +16,12 @@ A working Python script using regular expressions and finite automata (DFA/NFA c
 Repository Contents
 PT1:
 JARILLA - PT1 - AUTOMATA - MIDTERMS.pdf → Case Study (Yamada vs Thompson on McNaughton Algorithm)
+[JARILLA - PT1 - AUTOMATA - MIDTERMS.pdf](https://github.com/user-attachments/files/22580508/JARILLA.-.PT1.-.AUTOMATA.-.MIDTERMS.pdf)
 
 PT2:
 thompson_nfa.py → Python script for Regular Expressions with Finite Automata
-
+[thompson_nfa.py](https://github.com/user-attachments/files/22580507/thompson_nfa.py)
 
 
 # Video Demonstration: https://drive.google.com/drive/folders/1I1GXv8mmXeHpLNiEr_qWImmnFfoNWNvI?usp=sharing
+
